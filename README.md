@@ -4,7 +4,7 @@
       -  Leading and managing web projects
       -  Web Design
       -  Mobile Design
-      -  HTML, CSS, Bootstrap Development
+      -  SASS, HTML, CSS, Bootstrap Development
       -  Responsive Web Design
       -  Work on large and scaling CSS projects
       -  UI, UX Reviews      
