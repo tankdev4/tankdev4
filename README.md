@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tankdev
 - 👀 I can do
-      - I’m working as UI/UX Designer & HTML Front-end Developer. Total Expiration 5+ years. love to play with designs in the browser. Lifelong Learner.
+      - I’m working as UI/UX Designer & HTML Front-end Developer. Total Expiration 6+ years. love to play with designs in the browser. Lifelong Learner.
       -  Leading and managing web projects
       -  Web Design
       -  Mobile Design
